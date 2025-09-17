@@ -1,0 +1,7 @@
+# GIT IGNORE FOR TEXT PREPROCESSING
+
+__pycache__/
+data/
+model/
+text_preprocessing.ipynb
+
